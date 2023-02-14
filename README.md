@@ -1,4 +1,5 @@
 # amplify-deploy-test
+ - Just messing around with AWS amplify and Nuxt SSG
 
 ## Build Setup
 
